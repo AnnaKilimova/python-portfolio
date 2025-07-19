@@ -1,0 +1,10 @@
+# Virtual environment.
+sfp-venv/
+# Python caches.
+__pycache__/
+*.pyc
+# Databases.
+*.db
+*.sqlite3
+# IDE settings.
+.idea/
